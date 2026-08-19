@@ -6,7 +6,7 @@ Automatically sets your status to Do Not Disturb during your working hours, and 
 
 | Setting | Default | Notes |
 | --- | --- | --- |
-| Start time | `09:00` | 24h `HH:MM`, in your computer's local time |
+| Start time | `08:00` | 24h `HH:MM`, in your computer's local time |
 | End time | `17:00` | May be *earlier* than the start time for overnight shifts (e.g. `22:00` → `06:00`) |
 | Work days | `Mon-Fri` | Comma separated, ranges allowed: `Mon-Fri`, `Mon,Tue,Sat`, `Fri-Mon` |
 | Status during work | Do Not Disturb | Online / Idle / DND / Invisible |
